@@ -4,6 +4,11 @@ Personal portfolio website for Ravi Pandey, a BSc Statistics student and aspirin
 
 🔗 **Live Website**: [https://ravi8800pandey-ai.github.io/ravi-portfolio/](https://ravi8800pandey-ai.github.io/ravi-portfolio/)
 
+## Contact & Profiles
+- **Email**: [ravi8800pandey@gmail.com](mailto:ravi8800pandey@gmail.com)
+- **Phone**: [+91 6000719399](tel:+916000719399)
+- **GitHub**: [github.com/ravi8800pandey-ai](https://github.com/ravi8800pandey-ai)
+
 ## Local preview
 
 Open `index.html` in a browser.
