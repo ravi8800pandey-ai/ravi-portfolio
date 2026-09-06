@@ -2,12 +2,11 @@
 
 Personal portfolio website for Ravi Pandey, a BSc Statistics student and aspiring Data Analyst/Data Scientist.
 
+🔗 **Live Website**: [https://ravi8800pandey-ai.github.io/ravi-portfolio/](https://ravi8800pandey-ai.github.io/ravi-portfolio/)
+
 ## Local preview
 
 Open `index.html` in a browser.
-
-## website
-https://ravi8800pandey-ai.github.io/ravi-portfolio/
 
 ## Publishing with GitHub Pages
 
